@@ -724,11 +724,3 @@ module.exports = {
 - [ ] Performance budget
 
 ---
-
-Would you like me to:
-1. Create a complete Tailwind config file?
-2. Build sample component code?
-3. Design specific page mockups in an artifact?
-4. Create an interactive color palette picker?
-
-Let me know what would be most helpful for your implementation! 🚀
